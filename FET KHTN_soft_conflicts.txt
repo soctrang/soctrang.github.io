@@ -1,0 +1,10 @@
+﻿Soft conflicts of FET KHTN.fet
+Generated with FET 6.11.1 on 11/17/23 4:08 PM
+
+Number of broken soft constraints: 0
+Total soft conflicts: 0
+
+Soft conflicts list (in decreasing order):
+
+
+End of file.
